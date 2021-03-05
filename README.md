@@ -8,3 +8,4 @@ I'm Erwan, I'm currently studying computer science at EPITA, in Paris.
 - ⚡ I love sorting algorithm
 - 🌐 You can find more information on [erwanvivien.com](https://erwanvivien.com)
 
+Find more information about what I do bellow ! :eyes:
