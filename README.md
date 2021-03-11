@@ -9,3 +9,11 @@ I'm Erwan, I'm currently studying computer science at EPITA, in Paris.
 - 🌐 You can find more information on me here: [erwanvivien.com](https://erwanvivien.com)
 
 Find more information about what I do bellow ! :eyes:
+
+<a href="https://discordapp.com/users/289145021922279425" target="_blank">
+  <img align="left" alt="Erwan VIVIEN discord account" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/erwan-vivien/" target="_blank">
+  <img align="left" alt="Erwan VIVIEN linkedin profile" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
