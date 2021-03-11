@@ -1,6 +1,6 @@
 ## Heyo there 🤙
 
-I'm Erwan, I'm currently studying computer science at EPITA, in Paris.
+I'm Erwan, I'm currently studying computer science at [EPITA](https://www.epita.fr/), in Paris.
 
 - 🔭 I’m [working on](https://github.com/erwanvivien/EPITA2023_TigerCompiler) a [Tiger compiler](https://www.lrde.epita.fr/~tiger/tiger.split/Tiger-Language-Reference-Manual.html). I'm also [working on](https://github.com/erwanvivien/EPITA2023_Chess) a chess AI with magic bitboards. Those are school projects
 - 🌱 I’m currently learning next.js a dope framework.
