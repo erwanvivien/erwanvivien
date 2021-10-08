@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning rust / react-native.
 - 📫 You can reach me via discord `Xiaojiba#1407` or Twitter `@VivienErwan`. I answer everyone fairly quickly, just tell me you come from Github :)
 - ⚡ I love sorting algorithms.
-- 🌐 You can find more information on me here: [erwanvivien.com](https://erwanvivien.com)
+<!-- - 🌐 You can find more information on me here: [erwanvivien.com](https://erwanvivien.com) -->
 
 Find more information about what I do bellow ! :eyes:
 - [JPEG algorithm from scratch](https://github.com/erwanvivien/JPEG_compression)
