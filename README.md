@@ -17,8 +17,8 @@ Find more information about what I do bellow ! :eyes:
 - [JPEG algorithm from scratch](https://github.com/erwanvivien/JPEG_compression)
 - [Discord bot for EPITA](https://github.com/erwanvivien/discord_OverCRI)
 - [Discord bot to follow $eGLD](https://github.com/erwanvivien/discord_eGLD)
-- [QRCode generation](https://github.com/erwanvivien/QR-Gen)
-- [Spotify shared webplayer](https://github.com/erwanvivien/qify)
+- [QRCode generation](https://github.com/erwanvivien/QR-Gen) and it website [QRGen](https://github.com/erwanvivien/QR-Gen-website)
+- [Qify, shared Jukebox](https://github.com/erwanvivien/qify)
 
 <div align="center" display="grid">
   <a href="https://discordapp.com/users/289145021922279425" target="_blank">
