@@ -11,18 +11,18 @@
 
 <!-- I'm Erwan, I'm currently studying computer science at [EPITA](https://www.epita.fr/), in Paris. -->
 
-- 🔭 I’m working on a [QRCode generator](https://github.com/erwanvivien/QR-Gen). I'm also working on a PWA using Spotify API, project is name [Qify](https://github.com/erwanvivien/qify).
-- 🌱 I’m currently learning rust / react-native.
-- 📫 You can reach me via discord `Xiaojiba#1407` or Twitter `@VivienErwan`. I answer everyone fairly quickly, just tell me you come from Github :)
-- ⚡ I love sorting algorithms.
+- 🔭 I’m working on an [Ultra fast QRCode generator](https://github.com/erwanvivien/fast_qr) and it's website [fast-qr.com](https://fast-qr.com). 
+- 🌱 I’m currently learning rust advanced features and trying to learn Flutter.
+- 📫 You can reach me via discord `Xiaojiba#1407`. I answer everyone fairly quickly, just tell me you come from Github :)
+- ⚡ I love sorting algorithms and random cool optimizations.
 <!-- - 🌐 You can find more information on me here: [erwanvivien.com](https://erwanvivien.com) -->
 
 Find more information about what I do bellow ! :eyes:
+- [QRCode generation](https://github.com/erwanvivien/fast_qr) and it website [fast-qr.com](https://fast-qr.com)
+- [Qify, shared Jukebox](https://qify.app)
 - [JPEG algorithm from scratch](https://github.com/erwanvivien/JPEG_compression)
 - [Discord bot for EPITA](https://github.com/erwanvivien/discord_OverCRI)
 - [Discord bot to follow $eGLD](https://github.com/erwanvivien/discord_eGLD)
-- [QRCode generation](https://github.com/erwanvivien/QR-Gen) and it website [QRGen](https://github.com/erwanvivien/QR-Gen-website)
-- [Qify, shared Jukebox](https://github.com/erwanvivien/qify)
 
 <div align="center" display="grid">
   <a href="https://discordapp.com/users/289145021922279425" target="_blank">
@@ -31,7 +31,7 @@ Find more information about what I do bellow ! :eyes:
   <a href="https://www.linkedin.com/in/erwan-vivien/" target="_blank" style="padding: 16px">
     <img alt="Erwan VIVIEN linkedin profile" width="50px" src="assets/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/VivienErwan/" target="_blank">
+<!--  <a href="https://twitter.com/VivienErwan/" target="_blank">
     <img alt="Erwan VIVIEN Twitter profile" width="50px" src="assets/twitter.svg" />
-  </a>
+  </a> -->
 </div>
