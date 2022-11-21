@@ -20,9 +20,9 @@
 Find more information about what I do bellow ! :eyes:
 - [QRCode generation](https://github.com/erwanvivien/fast_qr) and it website [fast-qr.com](https://fast-qr.com)
 - [Qify, shared Jukebox](https://qify.app)
-- [JPEG algorithm from scratch](https://github.com/erwanvivien/JPEG_compression)
-- [Discord bot for EPITA](https://github.com/erwanvivien/discord_OverCRI)
-- [Discord bot to follow $eGLD](https://github.com/erwanvivien/discord_eGLD)
+- [A raytracer](https://github.com/erwanvivien/isim_raytracer)
+- [An interface of MsSettings](https://github.com/erwanvivien/ms-setting)
+- [Implementation of RAFT](https://github.com/erwanvivien/algorep)
 
 <div align="center" display="grid">
   <a href="https://discordapp.com/users/289145021922279425" target="_blank">
