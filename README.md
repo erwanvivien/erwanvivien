@@ -11,17 +11,15 @@
 
 <!-- I'm Erwan, I'm currently studying computer science at [EPITA](https://www.epita.fr/), in Paris. -->
 
-- 🔭 I’m working on an [Ultra fast QRCode generator](https://github.com/erwanvivien/fast_qr) and it's website [fast-qr.com](https://fast-qr.com). 
-- 🌱 I’m currently learning rust advanced features and trying to learn Flutter.
+- 🔭 I’m working on an [Ultra fast QRCode generator](https://github.com/erwanvivien/fast_qr). 
+- 🌱 I’m currently learning Rust advanced features and trying to learn Flutter.
 - 📫 You can reach me via discord [`Xiaojiba#1407`](https://discordapp.com/users/289145021922279425). I answer everyone fairly quickly, just tell me you come from Github :)
 - ⚡ I love sorting algorithms and random cool optimizations.
 <!-- - 🌐 You can find more information on me here: [erwanvivien.com](https://erwanvivien.com) -->
 
 Find more information about what I do bellow ! :eyes:
-- [QRCode generation](https://github.com/erwanvivien/fast_qr) and it website [fast-qr.com](https://fast-qr.com)
-- [Qify, shared Jukebox](https://qify.app)
+- [QRCode generation](https://github.com/erwanvivien/fast_qr)
 - [A raytracer](https://github.com/erwanvivien/isim_raytracer)
-- [An interface of MsSettings](https://github.com/erwanvivien/ms-setting)
 - [Implementation of RAFT](https://github.com/erwanvivien/algorep)
 
 <div align="center" display="grid">
