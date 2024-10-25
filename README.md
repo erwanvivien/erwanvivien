@@ -13,7 +13,7 @@
 
 - 🔭 I’m working on an [Ultra fast QRCode generator](https://github.com/erwanvivien/fast_qr). 
 - 🌱 I’m currently learning Rust advanced features and trying to learn Flutter.
-- 📫 You can reach me via discord [`Xiaojiba#1407`](https://discordapp.com/users/289145021922279425). I answer everyone fairly quickly, just tell me you come from Github :)
+- 📫 You can reach me via discord [`xiaojiba`](https://discordapp.com/users/289145021922279425). I answer everyone fairly quickly, just tell me you come from Github :)
 - ⚡ I love sorting algorithms and random cool optimizations.
 <!-- - 🌐 You can find more information on me here: [erwanvivien.com](https://erwanvivien.com) -->
 
