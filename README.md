@@ -24,14 +24,8 @@ I'm currently looking for my next full-time engineering role.
 - **[FastQR](https://github.com/erwanvivien/fast_qr)** — QR Code generation
   implemented from the ISO specification in Rust, optimized for performance and
   WebAssembly. 300k+ crate downloads and 290+ GitHub stars.
-- **[Moonvas](https://moonvas.com/)** — An experimental collaborative moodboard
-  exploring Durable Objects and multiplayer synchronization.
 - **[FeatGuessr](https://app.featguessr.com/)** — A live trivia game powered by
   PostGIS.
-- **[Social Account Manager](https://sam.xiaojiba.dev/)** — A personal desktop
-  app for running isolated browser sessions.
-- **[Letter4Later](https://letter4later.com/en)** — Send a physical letter to
-  your future self.
 - **Maison Bundle** — Built and operated the full-stack platform for a French
   digital-products business generating around €1M in gross revenue.
 
